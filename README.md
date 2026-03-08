@@ -17,7 +17,7 @@ This project implements a Deep Learning based system to detect and mitigate cybe
 - PyTorch
 - Pandas
 - NumPy
-- Machine Learning / Deep Learning
+-  Deep Learning
 
 ## Dataset
 The dataset consists of threat intelligence data including:
